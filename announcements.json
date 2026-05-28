@@ -1,23 +1,25 @@
 {
   "apps": {
-    "com.example.musicplayer": {
-      "active": true,
-      "title": "اطلاعیه مهم - موزیک پلیر",
-      "message": "نسخه جدید موزیک پلیر منتشر شد.\nلطفاً برای گوش دادن به آهنگ‌های جدید بروزرسانی کنید.",
-      "button_text": "برو به کافه بازار",
-      "button_url": "https://cafebazaar.ir/app/com.example.musicplayer",
-      "version": "20260528",
-      "show_once": true
-    },
 
-    "com.example.videoplayer": {
+    "com.pasargadgamework.bdod": {
+
       "active": true,
-      "title": "اطلاعیه - ویدیو پلیر",
-      "message": "مشکل پخش ویدیو در نسخه قبلی برطرف شد.\nلطفاً هرچه زودتر بروزرسانی کنید.",
-      "button_text": "برو به صفحه اپ",
-      "button_url": "https://cafebazaar.ir/app/com.example.videoplayer",
-      "version": "20260527",
-      "show_once": true
+
+      "id": "notice_20260528",
+
+      "title": "بروزرسانی مهم",
+
+      "message": "نسخه جدید منتشر شد.\nلطفاً بروزرسانی کنید.",
+
+      "button_text": "دانلود بروزرسانی",
+
+      "button_url": "https://cafebazaar.ir/app/com.pasargadgamework.musicplayer",
+
+      "show_once": true,
+
+      "force_update": true,
+
+      "min_version_code": 1
     }
   }
 }
