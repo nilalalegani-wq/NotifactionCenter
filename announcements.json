@@ -1,25 +1,29 @@
 {
   "apps": {
-
     "com.pasargadgamework.bdod": {
-
       "active": true,
-
       "id": "notice_20260528",
 
-      "title": "بروزرسانی مهم",
+      "type": "announcement",
 
-      "message": "نسخه جدید منتشر شد.\nلطفاً بروزرسانی کنید.",
+      "title": "سرورها بروزرسانی شدند 🎉",
+      "message": "سرورهای بازی با موفقیت بروزرسانی شدند.\nاکنون می‌توانید از امکانات جدید لذت ببرید.",
 
-      "button_text": "دانلود بروزرسانی",
+      "image_url": "https://...",
 
-      "button_url": "https://cafebazaar.ir/app/com.pasargadgamework.musicplayer",
+      "show_button": false,
+      "button_text": "",
+      "button_url": "",
 
       "show_once": true,
+      "force_update": false,
+      "min_version_code": 1,
 
-      "force_update": true,
+      "dismiss_text": "متوجه شدم",
 
-      "min_version_code": 1
+      "badge_text": "",
+      "badge_color": "",
+      "icon": "info"
     }
   }
 }
